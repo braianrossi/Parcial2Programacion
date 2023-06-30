@@ -1,0 +1,43 @@
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.csproj.AssemblyReference.cache
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\bin\Debug\ABMMascotas.exe.config
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\bin\Debug\ABMMascotas.exe
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\bin\Debug\ABMMascotas.pdb
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.frmMascota.resources
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.exe
+D:\Oscar\UTN\ProgramacionI\2022\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.pdb
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\ABMMascotas\bin\Debug\ABMMascotas.exe.config
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\ABMMascotas\bin\Debug\ABMMascotas.exe
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\ABMMascotas\bin\Debug\ABMMascotas.pdb
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.csproj.AssemblyReference.cache
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.csproj.SuggestedBindingRedirects.cache
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.frmMascota.resources
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.Properties.Resources.resources
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.csproj.GenerateResource.cache
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.csproj.CoreCompileInputs.cache
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.exe
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\ABMMascotas\obj\Debug\ABMMascotas.pdb
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota\ABMMascotas\bin\Debug\ABMMascotas.exe.config
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota\ABMMascotas\bin\Debug\ABMMascotas.exe
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota\ABMMascotas\bin\Debug\ABMMascotas.pdb
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota\ABMMascotas\obj\Debug\ABMMascotas.csproj.AssemblyReference.cache
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota\ABMMascotas\obj\Debug\ABMMascotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota\ABMMascotas\obj\Debug\ABMMascotas.frmMascota.resources
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota\ABMMascotas\obj\Debug\ABMMascotas.Properties.Resources.resources
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota\ABMMascotas\obj\Debug\ABMMascotas.csproj.GenerateResource.cache
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota\ABMMascotas\obj\Debug\ABMMascotas.csproj.CoreCompileInputs.cache
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota\ABMMascotas\obj\Debug\ABMMascotas.exe
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota\ABMMascotas\obj\Debug\ABMMascotas.pdb
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota Terminado\ABMMascotas\bin\Debug\ABMMascotas.exe.config
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota Terminado\ABMMascotas\bin\Debug\ABMMascotas.exe
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota Terminado\ABMMascotas\bin\Debug\ABMMascotas.pdb
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota Terminado\ABMMascotas\obj\Debug\ABMMascotas.csproj.AssemblyReference.cache
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota Terminado\ABMMascotas\obj\Debug\ABMMascotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota Terminado\ABMMascotas\obj\Debug\ABMMascotas.frmMascota.resources
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota Terminado\ABMMascotas\obj\Debug\ABMMascotas.Properties.Resources.resources
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota Terminado\ABMMascotas\obj\Debug\ABMMascotas.csproj.GenerateResource.cache
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota Terminado\ABMMascotas\obj\Debug\ABMMascotas.csproj.CoreCompileInputs.cache
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota Terminado\ABMMascotas\obj\Debug\ABMMascotas.exe
+C:\Users\braia\Documents\Programacion 1 2023\ABM mascota Terminado\ABMMascotas\obj\Debug\ABMMascotas.pdb
